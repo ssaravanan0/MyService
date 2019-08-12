@@ -18,4 +18,8 @@ public class MyService {
 
 		return myBean;
 	}
+	
+	public int Addition(int a, int b) {
+		return a+b;
+	}
 }
