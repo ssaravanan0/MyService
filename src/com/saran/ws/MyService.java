@@ -6,7 +6,7 @@ import com.saran.bean.MyBean;
 public class MyService {
 
 	public String getData(String input) {
-		return "Hi " + input;
+		return "Hello " + input;
 	}
 
 	public MyBean getObjectData(MyBean myBean) {
